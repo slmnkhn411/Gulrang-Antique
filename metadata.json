@@ -1,0 +1,8 @@
+{
+  "name": "Heritage & Elegance",
+  "description": "Luxury antique, handcrafted resin art, and timeless decorative treasures boutique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
